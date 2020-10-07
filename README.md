@@ -20,6 +20,10 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Beer-Bottles">Beer-Bottles</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Beer%20Bottles.cpp">Answer</a><br/>
+
+
 ## LinkedIn
 <a href = "https://binarysearch.com/problems/Sum-of-Two-Numbers-Online-Version">Sum-of-Two-Numbers-Online-Version</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Sum%20of%20Two%20Numbers%20-%20Online%20Version.cpp">Answer</a><br/>
@@ -38,3 +42,6 @@ One Place for all solutions.
 # NO TAG
 <a href = "https://binarysearch.com/problems/Missing-Numbers-from-1-to-N">Missing-Numbers-from-1-to-N</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Missing%20Numbers%20from%201%20to%20N.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Repeated-K-Length-Substrings">Repeated-K-Length-Substrings</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Repeated%20K-Length%20Substrings.cpp">Answer</a><br/>
