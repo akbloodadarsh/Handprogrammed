@@ -13,6 +13,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Shortest-Sublist-to-Sort">Shortest-Sublist-to-Sort</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Shortest-Sublist-to-Sort.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
+
 ## Mircrosoft
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
@@ -23,6 +26,14 @@ One Place for all solutions.
 
 <a href = "https://binarysearch.com/problems/Check-if-Number-is-Perfect-Square">Check-if-Number-is-Perfect-Square</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Check%20if%20Number%20is%20Perfect%20Square.cpp">Answer</a><br/>
+
+## Apple
+<a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
+
+## Facebook
+<a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
 
 # NO TAG
 <a href = "https://binarysearch.com/problems/Missing-Numbers-from-1-to-N">Missing-Numbers-from-1-to-N</a>
