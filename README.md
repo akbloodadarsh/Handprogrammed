@@ -17,3 +17,13 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
 
+## LinkedIn
+<a href = "https://binarysearch.com/problems/Sum-of-Two-Numbers-Online-Version">Sum-of-Two-Numbers-Online-Version</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Sum%20of%20Two%20Numbers%20-%20Online%20Version.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Check-if-Number-is-Perfect-Square">Check-if-Number-is-Perfect-Square</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Check%20if%20Number%20is%20Perfect%20Square.cpp">Answer</a><br/>
+
+# NO TAG
+<a href = "https://binarysearch.com/problems/Missing-Numbers-from-1-to-N">Missing-Numbers-from-1-to-N</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Missing%20Numbers%20from%201%20to%20N.cpp">Answer</a><br/>
