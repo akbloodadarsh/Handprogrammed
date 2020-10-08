@@ -16,6 +16,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Set">Set</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Set.cpp">Answer</a><br/>
+
 ## Mircrosoft
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
