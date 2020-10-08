@@ -23,6 +23,16 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Beer-Bottles">Beer-Bottles</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Beer%20Bottles.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
+
+## Amazon
+<a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
+
+## Twitter
+<a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
 
 ## LinkedIn
 <a href = "https://binarysearch.com/problems/Sum-of-Two-Numbers-Online-Version">Sum-of-Two-Numbers-Online-Version</a>
