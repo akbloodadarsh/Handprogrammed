@@ -33,6 +33,16 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Pattern-to-Word-Bijection">Pattern-to-Word-Bijection</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Pattern%20to%20Word%20Bijection.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Unique-Fractions">Unique-Fractions</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Unique%20Fractions.cpp"></a>Answer<br/>
+
+## Uber
+<a href = "https://binarysearch.com/problems/Fixed-Point">Fixed-Point</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Fixed%20Point.cpp">Answer</a><br/>
+
 ## Twitter
 <a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
