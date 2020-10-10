@@ -62,6 +62,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Most-Frequent-Number-in-Intervals">Most-Frequent-Number-in-Intervals</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Most%20Frequent%20Number%20in%20Intervals.cpp"></a>Answer<br/>
+
 # NO TAG
 <a href = "https://binarysearch.com/problems/Missing-Numbers-from-1-to-N">Missing-Numbers-from-1-to-N</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Missing%20Numbers%20from%201%20to%20N.cpp">Answer</a><br/>
