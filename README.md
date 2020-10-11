@@ -71,3 +71,6 @@ One Place for all solutions.
 
 <a href = "https://binarysearch.com/problems/Repeated-K-Length-Substrings">Repeated-K-Length-Substrings</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Repeated%20K-Length%20Substrings.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Even-Stevens">Even-Stevens</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Even%20Stevens.cpp">Answer</a><br/>
