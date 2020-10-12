@@ -19,6 +19,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Set">Set</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Set.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Minimize-Amplitude-After-K-Removals">Minimize-Amplitude-After-K-Removals</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Minimize%20Amplitude%20After%20K%20Removals.cpp">Answer</a><br/>
+
 ## Mircrosoft
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
@@ -74,3 +77,6 @@ One Place for all solutions.
 
 <a href = "https://binarysearch.com/problems/Even-Stevens">Even-Stevens</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Even%20Stevens.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Book-Pagination">Book-Pagination</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Book%20Pagination.cpp">Answer</a><br/>
