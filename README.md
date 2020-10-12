@@ -66,7 +66,7 @@ One Place for all solutions.
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
 
 <a href = "https://binarysearch.com/problems/Most-Frequent-Number-in-Intervals">Most-Frequent-Number-in-Intervals</a>
-<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Most%20Frequent%20Number%20in%20Intervals.cpp"></a>Answer<br/>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Most%20Frequent%20Number%20in%20Intervals.cpp">Answer</a><br/>
 
 # NO TAG
 <a href = "https://binarysearch.com/problems/Missing-Numbers-from-1-to-N">Missing-Numbers-from-1-to-N</a>
