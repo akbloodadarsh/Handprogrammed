@@ -3,6 +3,7 @@ One Place for all solutions.
 <a href = ""></a>
 <a href = ""></a><br/>
 
+
 ## Google
 <a href = "https://binarysearch.com/problems/Target-Number-with-Operations">Target Number with operations</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Target%20Number%20with%20Operations.cpp">Answer</a><br/>
@@ -25,6 +26,13 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Closest-Distance-to-Character">Closest-Distance-to-Character</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Closest%20Distance%20to%20Character.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
+
+## Bloomberg
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
+
 ## Mircrosoft
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
@@ -35,6 +43,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
+
 ## Amazon
 <a href = "https://binarysearch.com/problems/Hash-Table">Hash-Table</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Hash%20Table.cpp">Answer</a><br/>
@@ -44,6 +55,9 @@ One Place for all solutions.
 
 <a href = "https://binarysearch.com/problems/Unique-Fractions">Unique-Fractions</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Unique%20Fractions.cpp"></a>Answer<br/>
+
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
 
 ## Uber
 <a href = "https://binarysearch.com/problems/Fixed-Point">Fixed-Point</a>
@@ -60,12 +74,19 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Check-if-Number-is-Perfect-Square">Check-if-Number-is-Perfect-Square</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Check%20if%20Number%20is%20Perfect%20Square.cpp">Answer</a><br/>
 
+## Adobe
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
+
 ## Apple
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
 
 <a href = "https://binarysearch.com/problems/Closest-Distance-to-Character">Closest-Distance-to-Character</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Closest%20Distance%20to%20Character.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Rectangular-Overlap">Rectangular-Overlap</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Rectangular%20Overlap.cpp">Answer</a><br/>
 
 ## Facebook
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
