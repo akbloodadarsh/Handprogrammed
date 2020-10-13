@@ -22,6 +22,9 @@ One Place for all solutions.
 <a href = "https://binarysearch.com/problems/Minimize-Amplitude-After-K-Removals">Minimize-Amplitude-After-K-Removals</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Minimize%20Amplitude%20After%20K%20Removals.cpp">Answer</a><br/>
 
+<a href = "https://binarysearch.com/problems/Closest-Distance-to-Character">Closest-Distance-to-Character</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Closest%20Distance%20to%20Character.cpp">Answer</a><br/>
+
 ## Mircrosoft
 <a href = "https://binarysearch.com/problems/Word-Machine">Word-Machine</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Word%20Machine.cpp">Answer</a><br/>
@@ -60,6 +63,9 @@ One Place for all solutions.
 ## Apple
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Toeplitz%20Matrix.cpp">Answer</a><br/>
+
+<a href = "https://binarysearch.com/problems/Closest-Distance-to-Character">Closest-Distance-to-Character</a>
+<a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Closest%20Distance%20to%20Character.cpp">Answer</a><br/>
 
 ## Facebook
 <a href = "https://binarysearch.com/problems/Toeplitz-Matrix">Toeplitz-Matrix</a>
