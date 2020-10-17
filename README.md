@@ -107,3 +107,9 @@ One Place for all solutions.
 
 <a href = "https://binarysearch.com/problems/Book-Pagination">Book-Pagination</a>
 <a href = "https://github.com/akbloodadarsh/Handprogrammed/blob/main/binarysearch/CPP/Book%20Pagination.cpp">Answer</a><br/>
+
+### CONTRIBUTE
+Read the **<a href="https://github.com/akbloodadarsh/Handprogrammed/blob/main/contributing.md">contribution guidelines</a>** if you want to contribute.
+- any other suggestions then leave an issue.
+- Leave a star if you like the project :)
+
