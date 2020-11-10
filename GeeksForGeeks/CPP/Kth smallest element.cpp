@@ -63,27 +63,25 @@ int kthSmallest(int arr[], int l, int n, int k) {
 }
 
 #quick select
-int kthSmallest(int a[], int m, int n, int k) {
-    while(1)
+int quickselect(int a[],int l,int r,int k)
+{   
+    srand(time(0));
+    while(l<=r)
     {
-        bool quick = 0;
-        int l = 0,r = n;
-        while(l<=r)
+        int right = r,left = l+1,p = l;
+        swap(a[rand()%(r-l+1)+l],a[p]);
+        while(left<=right)
         {
-            if(a[k-1]<a[l])
-            {
-                quick = 1;
-                swap(a[l],a[k-1]);
-            }
-            else if(a[k-1]>a[r])
-            {
-                quick = 1;
-                swap(a[r],a[k-1]);
-            }
-            else if(l<k-1)++l;
-            else --r;
+            if(a[left]>a[p] && a[right]<a[p])swap(a[left],a[right]);
+            if(a[left]<=a[p])++left;
+            if(a[right]>=a[p])--right;
         }
-        if(!quick)break;
+        swap(a[right],a[p]);
+        if(right==k)return a[right];
+        else if(right<k)l=right+1;
+        else r=right-1;
     }
-    return a[k-1];
+}
+int kthSmallest(int a[], int l, int r, int k) {
+    return quickselect(a,l,r,k-1);
 }
