@@ -22,6 +22,21 @@ int kthSmallest(int arr[], int l, int r, int k) {
     return a.front();
 }
 
+int kthSmallest(int arr[], int l, int r, int k) {
+    priority_queue<int>q;
+    for(int i=0;i<k;++i)q.push(arr[i]);
+    for(int i=k;i<=r;++i)
+    {
+        if(q.top()>arr[i])
+        {
+            q.pop();
+            q.push(arr[i]);
+        }
+    }
+    return q.top();
+}
+
+
 #using minheap
 int kthSmallest(int arr[], int l, int n, int k) {
     vector<int>a;
